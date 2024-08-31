@@ -22,7 +22,7 @@ Ready to dive in? Here's how you can explore and run the solutions:
 1. **Clone the Repository**: Get a copy of this repo on your local machine.
 
    ```
-   git clone https://github.com/saxenaaakashj1/HackerRank-Python.git
+   git clone https://github.com/username/HackerRank-Python.git
    cd HackerRank-Python
    ```
 
