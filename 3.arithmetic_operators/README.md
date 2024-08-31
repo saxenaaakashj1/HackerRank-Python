@@ -1,8 +1,8 @@
 The provided code stub reads two integers from STDIN, `a` and `b`. Add code to print three lines where:
 
-`1.` The first line contains the sum of the two numbers.
-`2.` The second line contains the difference of the two numbers (first - second).
-`3.` The third line contains the product of the two numbers.
+- The first line contains the sum of the two numbers.
+- The second line contains the difference of the two numbers (first - second).
+- The third line contains the product of the two numbers.
 
 Example
 
@@ -24,7 +24,7 @@ The second line contains the second integer, `b`.
 
 Constraints
 
-![alt text](image.png)
+[constraints](3.arithmetic_operators/constraints.png)
 
 Output Format
 
@@ -47,4 +47,4 @@ Sample Output 0
 
 Explanation 0
 
-![alt text](image-1.png)
+[explanation](3.arithmetic_operators/explanation.png)

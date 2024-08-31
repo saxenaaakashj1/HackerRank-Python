@@ -10,10 +10,11 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 
 ## 📋 Table of Contents
 
-| Problem Category | Problem Name                                                                                           | Solution Link                                                                                            |
-| ---------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| **_Easy_**       | [hello_world](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/1.hello_world/README.md) | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/1.hello_world/hello_world.py) |
-| **_Easy_**       | [if_else](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/2.if_else/README.md)         | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/2.if_else/if_else.py)         |
+| Problem Category | Problem Name                                                                                                             | Solution Link                                                                                                             |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| **_Easy_**       | [hello_world](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/1.hello_world/README.md)                   | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/1.hello_world/hello_world.py)                  |
+| **_Easy_**       | [if_else](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/2.if_else/README.md)                           | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/2.if_else/if_else.py)                          |
+| **_Easy_**       | [arithmetic_operators](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/3.arithmetic_operators/README.md) | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/3.arithmetic_operators/arithmetic_operator.py) |
 
 ## 🛠️ How to Use
 
