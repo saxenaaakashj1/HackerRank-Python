@@ -62,4 +62,4 @@ This project is open-source and available under the MIT License. Feel free to us
 
 📬 Stay Connected
 
-Got questions, feedback, or just want to chat about Python? Drop me a line at saxenaaakashj1@gmial.com. Let’s connect!
+Got questions, feedback, or just want to chat about Python? Drop me a line at saxenaaakashj1@gmail.com. Let’s connect!
