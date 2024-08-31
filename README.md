@@ -20,24 +20,21 @@ Ready to dive in? Here's how you can explore and run the solutions:
 
 1. **Clone the Repository**: Get a copy of this repo on your local machine.
 
-   ```bash
+   ```
    git clone https://github.com/yourusername/HackerRank-Python-Solutions.git
    cd HackerRank-Python-Solutions
-
    ```
 
 2. Pick Your Challenge: Navigate to the folder that interests you.
 
-   ```bash
+   ```
    cd folder_name
-
    ```
 
 3. Run the Code: Execute the solution to see it in action!
 
-   ```bash
+   ```
    python file_name.py
-
    ```
 
 4. Learn & Improve: Read through the code, understand the logic, and feel free to tweak it to your liking!
