@@ -6,14 +6,14 @@ Welcome to the **Ultimate Python Playground** for HackerRank challenges! 🎉 Th
 
 Each solution is a standalone `.py` file with the problem statement at the top, so you can easily understand the context and the approach.
 
-The solutions are categorized into folders based on the HackerRank domain (e.g., `Algorithms`,
-`Data Structures`, `Machine Learning`, etc.).
+The solutions are categorized into folders based on the levels (e.g., `Easy`, `Medium`, and `Hard` etc.).
 
 ## 📋 Table of Contents
 
 | Problem Category | Problem Name                                                                                            | Solution Link                                                                                            |
 | ---------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | **_Easy_**       | [hello, world](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/1.hello_world/README.md) | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/1.hello_world/hello_world.py) |
+| **_Easy_**       | [if_else](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/2.if_else/README.md)          | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/2.if_else/if_else.py)         |
 
 ## 🛠️ How to Use
 
@@ -42,9 +42,9 @@ Ready to dive in? Here's how you can explore and run the solutions:
 
 🎯 Why This Repository?
 
-    •	Structured Learning: Solutions categorized for easy access and targeted learning.
-    •	Detailed Explanations: Comments and documentation within the code to guide you through the thought process.
-    •	Ever-Growing: More solutions will be added over time, so stay tuned for updates!
+• Structured Learning: Solutions categorized for easy access and targeted learning.
+• Detailed Explanations: Comments and documentation within the code to guide you through the thought process.
+• Ever-Growing: More solutions will be added over time, so stay tuned for updates!
 
 🤝 Contributing
 
