@@ -16,6 +16,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | **_Easy_**       | [if_else](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/2.if_else/README.md)                           | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/2.if_else/if_else.py)                          |
 | **_Easy_**       | [arithmetic_operators](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/3.arithmetic_operators/README.md) | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/3.arithmetic_operators/arithmetic_operator.py) |
 | **_Easy_**       | [python_division](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/4.python_division/README.md)           | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/4.python_division/python_division.py)          |
+| **_Easy_**       | [loops](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/5.loops/README.md)                               | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/5.loops/loops.py)                              |
 
 ## 🛠️ How to Use
 
