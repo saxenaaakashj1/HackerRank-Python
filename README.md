@@ -11,8 +11,9 @@ The solutions are categorized into folders based on the HackerRank domain (e.g.,
 
 ## 📋 Table of Contents
 
-| Problem Category | Problem Name | Solution Link |
-| ---------------- | ------------ | ------------- |
+| Problem Category | Problem Name                                                                                            | Solution Link                                                                                            |
+| ---------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **_Easy_**       | [hello, world](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/1.hello_world/README.md) | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/1.hello_world/hello_world.py) |
 
 ## 🛠️ How to Use
 
