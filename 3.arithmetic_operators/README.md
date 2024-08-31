@@ -24,7 +24,7 @@ The second line contains the second integer, `b`.
 
 Constraints
 
-[constraints](3.arithmetic_operators/constraints.png)
+[constraints](constraints.png)
 
 Output Format
 
@@ -47,4 +47,4 @@ Sample Output 0
 
 Explanation 0
 
-[explanation](3.arithmetic_operators/explanation.png)
+[explanation](explanation.png)
