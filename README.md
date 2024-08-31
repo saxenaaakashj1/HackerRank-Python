@@ -17,6 +17,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | **_Easy_**       | [arithmetic_operators](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/3.arithmetic_operators/README.md) | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/3.arithmetic_operators/arithmetic_operator.py) |
 | **_Easy_**       | [python_division](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/4.python_division/README.md)           | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/4.python_division/python_division.py)          |
 | **_Easy_**       | [loops](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/5.loops/README.md)                               | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/5.loops/loops.py)                              |
+| **_Easy_**       | [print_function](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/6.print_function/README.md)             | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/6.print_function/print_function.py)            |
 
 ## 🛠️ How to Use
 
@@ -58,3 +59,7 @@ Love problem-solving? Found a better solution? Contributions are welcome! Fork t
 This project is open-source and available under the MIT License. Feel free to use, share, and improve upon it!
 
 🚀 Level up your Python skills with these HackerRank challenges and become a coding master! 🚀
+
+📬 Stay Connected
+
+Got questions, feedback, or just want to chat about Python? Drop me a line at saxenaaakashj1@gmial.com. Let’s connect!
