@@ -19,6 +19,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | **_Easy_**       | [loops](https://www.hackerrank.com/challenges/python-loops/problem)                               | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/5.loops/loops.py)                              |
 | **_Easy_**       | [print_function](https://www.hackerrank.com/challenges/python-print/problem)                      | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/6.print_function/print_function.py)            |
 | **_Easy_**       | [list_comprehension](https://www.hackerrank.com/challenges/list-comprehensions/problem)           | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/7.list_comprehension/list_comprehension.py)    |
+| **_Easy_**       | [runner_up](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)   | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/8.runner_up/runner_up.py)                      |
 
 ## 🛠️ How to Use
 
