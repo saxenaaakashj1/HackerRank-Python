@@ -10,17 +10,18 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 
 ## 📋 Table of Contents
 
-| Problem Category | Problem Name                                                                                      | Solution Link                                                                                                             |
-| ---------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| **_Easy_**       | [hello_world](https://www.hackerrank.com/challenges/py-hello-world/problem)                       | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/1.hello_world/hello_world.py)                  |
-| **_Easy_**       | [if_else](https://www.hackerrank.com/challenges/py-if-else/problem)                               | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/2.if_else/if_else.py)                          |
-| **_Easy_**       | [arithmetic_operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/3.arithmetic_operators/arithmetic_operator.py) |
-| **_Easy_**       | [python_division](https://www.hackerrank.com/challenges/python-division/problem)                  | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/4.python_division/python_division.py)          |
-| **_Easy_**       | [loops](https://www.hackerrank.com/challenges/python-loops/problem)                               | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/5.loops/loops.py)                              |
-| **_Easy_**       | [print_function](https://www.hackerrank.com/challenges/python-print/problem)                      | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/6.print_function/print_function.py)            |
-| **_Easy_**       | [list_comprehension](https://www.hackerrank.com/challenges/list-comprehensions/problem)           | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/7.list_comprehension/list_comprehension.py)    |
-| **_Easy_**       | [runner_up](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)   | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/8.runner_up/runner_up.py)                      |
-| **_Easy_**       | [nested_list](https://www.hackerrank.com/challenges/nested-list/problem)                          | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/9.nested_list/nested_list.py)                  |
+| Problem Category | Problem Name                                                                                      | Solution Link                                                                                                                |
+| ---------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **_Easy_**       | [hello_world](https://www.hackerrank.com/challenges/py-hello-world/problem)                       | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/1.hello_world/hello_world.py)                     |
+| **_Easy_**       | [if_else](https://www.hackerrank.com/challenges/py-if-else/problem)                               | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/2.if_else/if_else.py)                             |
+| **_Easy_**       | [arithmetic_operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/3.arithmetic_operators/arithmetic_operator.py)    |
+| **_Easy_**       | [python_division](https://www.hackerrank.com/challenges/python-division/problem)                  | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/4.python_division/python_division.py)             |
+| **_Easy_**       | [loops](https://www.hackerrank.com/challenges/python-loops/problem)                               | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/5.loops/loops.py)                                 |
+| **_Easy_**       | [print_function](https://www.hackerrank.com/challenges/python-print/problem)                      | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/6.print_function/print_function.py)               |
+| **_Easy_**       | [list_comprehension](https://www.hackerrank.com/challenges/list-comprehensions/problem)           | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/7.list_comprehension/list_comprehension.py)       |
+| **_Easy_**       | [runner_up](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)   | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/8.runner_up/runner_up.py)                         |
+| **_Easy_**       | [nested_list](https://www.hackerrank.com/challenges/nested-list/problem)                          | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/9.nested_list/nested_list.py)                     |
+| **_Easy_**       | [finding_the_percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)    | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/finding_the_percentage/finding_the_percentage.py) |
 
 ## 🛠️ How to Use
 
