@@ -2,7 +2,7 @@ Let's learn about list comprehensions! You are given three integers `x`, `y` and
 
 Constraints:
 
-![constraints](constraints.png).
+![constraints](constraints.png)
 
 Print the list in lexicographic increasing order.
 
@@ -39,7 +39,7 @@ Explanation 0
 
 Each variable and will have values of `0` or `1`. All permutations of lists in the form
 
-![output](output.png).
+![output](output.png)
 
 Remove all arrays that sum to to leave only the valid permutations.
 
