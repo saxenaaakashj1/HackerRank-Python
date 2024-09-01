@@ -18,6 +18,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | **_Easy_**       | [python_division](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/4.python_division/README.md)           | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/4.python_division/python_division.py)          |
 | **_Easy_**       | [loops](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/5.loops/README.md)                               | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/5.loops/loops.py)                              |
 | **_Easy_**       | [print_function](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/6.print_function/README.md)             | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/6.print_function/print_function.py)            |
+| **_Easy_**       | [list_comprehension](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/7.list_comprehension/README.md)     | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/7.list_comprehension/list_comprehension.py)    |
 
 ## 🛠️ How to Use
 
