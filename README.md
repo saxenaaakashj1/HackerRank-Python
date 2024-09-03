@@ -22,6 +22,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | **_Easy_**       | [runner_up](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)   | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/8.runner_up/runner_up.py)                         |
 | **_Easy_**       | [nested_list](https://www.hackerrank.com/challenges/nested-list/problem)                          | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/9.nested_list/nested_list.py)                     |
 | **_Easy_**       | [finding_the_percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)    | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/finding_the_percentage/finding_the_percentage.py) |
+| **_Easy_**       | [lists](https://www.hackerrank.com/challenges/python-lists/problem)                               | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/lists/lists.py)                                   |
 
 ## 🛠️ How to Use
 
