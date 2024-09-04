@@ -24,6 +24,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | **_Easy_**       | [finding_the_percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)    | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/finding_the_percentage/finding_the_percentage.py) |
 | **_Easy_**       | [lists](https://www.hackerrank.com/challenges/python-lists/problem)                               | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/lists/lists.py)                                   |
 | **_Easy_**       | [tuples](https://www.hackerrank.com/challenges/python-tuples/problem)                             | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/tuples/tuples.py)                                 |
+| **_Easy_**       | [swap_case](https://www.hackerrank.com/challenges/swap-case/problem)                              | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/swap_case/swap_case.py)                           |
 
 ## 🛠️ How to Use
 
