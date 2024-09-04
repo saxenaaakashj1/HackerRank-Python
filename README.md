@@ -29,6 +29,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | **_Easy_**       | [what's_your_name](https://www.hackerrank.com/challenges/whats-your-name/problem)                 | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/what's_your_name/what's_your_name.py)             |
 | **_Easy_**       | [mutations](https://www.hackerrank.com/challenges/python-mutations/problem)                       | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/mutations/mutations.py)                           |
 | **_Easy_**       | [find_a_string](https://www.hackerrank.com/challenges/find-a-string/problem)                      | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/find_a_string/find_a_string.py)                   |
+| **_Easy_**       | [string_validators](https://www.hackerrank.com/challenges/string-validators/problem)              | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/string_validators/string_validators.py)           |
 
 ## 🛠️ How to Use
 
