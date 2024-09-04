@@ -25,6 +25,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | **_Easy_**       | [lists](https://www.hackerrank.com/challenges/python-lists/problem)                               | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/lists/lists.py)                                   |
 | **_Easy_**       | [tuples](https://www.hackerrank.com/challenges/python-tuples/problem)                             | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/tuples/tuples.py)                                 |
 | **_Easy_**       | [swap_case](https://www.hackerrank.com/challenges/swap-case/problem)                              | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/swap_case/swap_case.py)                           |
+| **_Easy_**       | [split_and_join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)      | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/split_and_join/split_and_join.py)                 |
 
 ## 🛠️ How to Use
 
