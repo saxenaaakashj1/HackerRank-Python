@@ -6,11 +6,6 @@ def main():
     print(solve(s))
 
 
-import re
-
-import re
-
-
 def solve(s):
     # Check if the string contains only letters, digits, and spaces, ignoring case sensitivity.
     # Also, strip leading/trailing whitespace before applying regex to ensure valid matches.
