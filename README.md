@@ -33,6 +33,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | **_Easy_**       | [text_alignment](https://www.hackerrank.com/challenges/text-alignment/problem)                    | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/text-alignment/text-alignment.py)                 |
 | **_Easy_**       | [text_wrap](https://www.hackerrank.com/challenges/text-wrap/problem)                              | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/text_wrap/text_wrap.py)                           |
 | **_Easy_**       | [string_formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)       | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/string_formatting/string_formatting.py)           |
+| **_Easy_**       | [capitalize](https://www.hackerrank.com/challenges/capitalize/problem)                            | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/capitalize/capitalize.py)                         |
 
 ## 🛠️ How to Use
 
