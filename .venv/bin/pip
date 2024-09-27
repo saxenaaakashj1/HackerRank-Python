@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/saxenaaakashj1/Desktop/MIT - CS50/HackerRank/HackerRank-Python/.venv/bin/python" "$0" "$@"
+'''exec' "/Users/saxenaaakashj1/Desktop/MIT - CS50/HackerRank/HackerRank-Python/.venv/bin/python3.12" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re

@@ -7,8 +7,7 @@ def main():
 
 
 def solve(s):
-    # Check if the string contains only letters, digits, and spaces,
-    # ignoring case sensitivity.
+    # Check if the string contains only letters, digits, and spaces, ignoring case sensitivity.
     # Also, strip leading/trailing whitespace before applying regex to
     # ensure valid matches.
     matches = re.search(r"^[a-z0-9 ]+$", s.strip(), re.IGNORECASE)
