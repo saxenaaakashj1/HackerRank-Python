@@ -17,7 +17,8 @@ def cartesian_product(A, B):
         # Convert the string lists A and B into integers using map
         A = map(int, A)
         B = map(int, B)
-        # Compute and print the Cartesian product of A and B, unpacking the result with *
+        # Compute and print the Cartesian product of A and B, unpacking
+        # the result with *
         print(*product(A, B))
 
 

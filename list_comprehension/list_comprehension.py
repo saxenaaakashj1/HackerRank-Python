@@ -5,8 +5,10 @@ def main():
     z = int(input())
     n = int(input())
 
-    # Use list comprehension to generate all possible coordinates [i, j, k]
-    # where i ranges from 0 to x, j ranges from 0 to y, and k ranges from 0 to z.
+    # Use list comprehension to generate all possible coordinates
+    # [i, j, k]
+    # where i ranges from 0 to x, j ranges from 0 to y, and k ranges
+    # from 0 to z.
     # Filter out the coordinates where the sum of i, j, and k equals n.
     result = [
         [i, j, k]

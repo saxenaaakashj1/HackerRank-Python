@@ -10,7 +10,8 @@ def main():
         [command[0], *[int(item) for item in command[1:]]]
         for command in (input().strip().split(" ") for _ in range(N))
     ]
-    # Commands are converted to a list where command[0] is the command type and the rest are its arguments
+    # Commands are converted to a list where command[0] is the command
+    # type and the rest are its arguments
 
     # Initialize an empty list to apply commands
     data = []
@@ -44,6 +45,8 @@ def main():
             # Print the current state of the list
             print(data)
 
-# Ensure that the main function runs only if this script is executed directly
+
+# Ensure that the main function runs only if this script is executed
+# directly
 if __name__ == "__main__":
     main()
