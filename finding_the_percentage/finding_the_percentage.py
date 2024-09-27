@@ -19,7 +19,11 @@ def main():
         # If it is, calculate the average of the student's marks and
         # print it
         # If not, do nothing (None)
-        print(f"{sum(students[query_name])/3:.2f}") if query_name in students else None
+        (
+            print(f"{sum(students[query_name]) / 3:.2f}")
+            if query_name in students
+            else None
+        )
 
 
 # Standard Python boilerplate to ensure the main function is called when the

@@ -42,16 +42,16 @@ def print_formatted(number):
 
             # print(
             #     str(i).rjust(width),
-            ## Decimal representation (right-justified)
+            # Decimal representation (right-justified)
             #     format(i, "o").rjust(width),
-            ## Octal representation using format() method
-            ## (right-justified)
+            # Octal representation using format() method
+            # (right-justified)
             #     format(i, "X").rjust(width),
-            ## Hexadecimal (uppercase) using format() method
-            ## (right-justified)
+            # Hexadecimal (uppercase) using format() method
+            # (right-justified)
             #     format(i, "b").rjust(width)
-            ## Binary representation using format() method
-            ## (right-justified)
+            # Binary representation using format() method
+            # (right-justified)
             # )
 
 

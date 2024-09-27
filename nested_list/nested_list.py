@@ -18,7 +18,9 @@ def main():
 
         # Collect names of students with the second lowest score
         names = sorted(
-            student[0] for student in students if student[1] == second_lowest_score
+            student[0]
+            for student in students
+            if student[1] == second_lowest_score
         )
 
         # Print the names

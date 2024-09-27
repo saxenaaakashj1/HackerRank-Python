@@ -10,7 +10,9 @@ def main():
         for i in range(thickness):
             # rjust and ljust are used to align the character `H` in the
             # shape of a cone
-            print((c * i).rjust(thickness - 1) + c + (c * i).ljust(thickness - 1))
+            print(
+                (c * i).rjust(thickness - 1) + c + (c * i).ljust(thickness - 1)
+            )
 
         # Top Pillars
         # This loop prints two vertical pillars on either side

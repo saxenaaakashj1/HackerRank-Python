@@ -1,6 +1,6 @@
 def main():
-    # Read the input string and the substring to search for, stripping
-    # any leading/trailing whitespace.
+    # Read the input string and the substring to search for, stripping any
+    # leading/trailing whitespace.
     string = input().strip()
     sub_string = input().strip()
 
@@ -8,7 +8,11 @@ def main():
     # the specified range.
     # The result is printed only if the string's length is between 1
     # and 200 inclusive.
-    print(count_substring(string, sub_string)) if 1 <= len(string) <= 200 else None
+    (
+        print(count_substring(string, sub_string))
+        if 1 <= len(string) <= 200
+        else None
+    )
 
 
 def count_substring(string, sub_string):

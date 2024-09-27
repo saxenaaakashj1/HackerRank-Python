@@ -6,7 +6,9 @@ def main():
     if 2 <= n <= 10:
         # Read all scores in a single line, split by spaces, convert to
         # integers, and sort them in descending order
-        scores = sorted([int(score) for score in input().split()], reverse=True)
+        scores = sorted(
+            [int(score) for score in input().split()], reverse=True
+        )
 
         # Find the second highest score
         for i in range(1, n):

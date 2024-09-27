@@ -15,7 +15,10 @@ def wrap(string, max_width):
         # Then joining those chunks with newline characters to form the
         # final result
         return "\n".join(
-            [string[i : i + max_width] for i in range(0, len(string), max_width)]
+            [
+                string[i : i + max_width]
+                for i in range(0, len(string), max_width)
+            ]
         )
 
     # The task can also be achieved using the built-in function
