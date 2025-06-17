@@ -35,6 +35,8 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | **_Easy_**       | [string_formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)       | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/string_formatting/string_formatting.py)           |
 | **_Easy_**       | [capitalize](https://www.hackerrank.com/challenges/capitalize/problem)                            | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/capitalize/capitalize.py)                         |
 | **_Easy_**       | [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem)            | [Solution](<https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/itertools.product()/itertools.product().py>)     |
+|**_Easy_**|[collections_counter](https://www.hackerrank.com/challenges/collections-counter/problem) | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/collections_counter/collections_counter.py)|
+
 
 ## 🛠️ How to Use
 
