@@ -1,8 +1,8 @@
-from collections import Counter 
+from collections import Counter
 
 
 def main():
-    # Read number of shoes available 
+    # Read number of shoes available
     # (not used, but needed to align input in HackerRank)
     _ = int(input("Numbers of shoes available: "))
 
@@ -17,11 +17,11 @@ def main():
     # Process each buyer
     for _ in range(interested_buyers):
         size, price = input("Size and price to pay: ").split()
-        
+
         # Check if the requested shoe size is in stock
         if sizes_available[size] > 0:
-            total_revenue += int(price)      # Add price to total revenue
-            sizes_available[size] -= 1       # Decrease stock for that size
+            total_revenue += int(price)  # Add price to total revenue
+            sizes_available[size] -= 1  # Decrease stock for that size
 
     # Print total revenue generated from all valid sales
     print(f"Total Revenue: {total_revenue}")
