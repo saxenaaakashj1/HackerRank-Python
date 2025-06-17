@@ -35,10 +35,10 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | **_Easy_**       | [string_formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)       | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/string_formatting/string_formatting.py)           |
 | **_Easy_**       | [capitalize](https://www.hackerrank.com/challenges/capitalize/problem)                            | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/capitalize/capitalize.py)                         |
 | **_Easy_**       | [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem)            | [Solution](<https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/itertools.product()/itertools.product().py>)     |
-|**_Easy_**|[collections_counter](https://www.hackerrank.com/challenges/collections-counter/problem) | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/collections_counter/collections_counter.py)|
-|**_Easy_**|[itertools_permutations](https://www.hackerrank.com/challenges/itertools-permutations/problem)|[Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/itertools_permutations/itertools_permutations.py)|
-|**_Easy_**|[polar_coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem)|[Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/polar_coordinates/polar_coordinates.py)|
-
+| **_Easy_**       | [collections_counter](https://www.hackerrank.com/challenges/collections-counter/problem)          | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/collections_counter/collections_counter.py)       |
+| **_Easy_**       | [itertools_permutations](https://www.hackerrank.com/challenges/itertools-permutations/problem)    | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/itertools_permutations/itertools_permutations.py) |
+| **_Easy_**       | [polar_coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem)              | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/polar_coordinates/polar_coordinates.py)           |
+| **_Easy_**       | [sets_distinct_height](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)     | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/sets_distinct_heght/sets_distinct_heght.py)       |
 
 ## 🛠️ How to Use
 
