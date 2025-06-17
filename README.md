@@ -36,6 +36,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | **_Easy_**       | [capitalize](https://www.hackerrank.com/challenges/capitalize/problem)                            | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/capitalize/capitalize.py)                         |
 | **_Easy_**       | [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem)            | [Solution](<https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/itertools.product()/itertools.product().py>)     |
 |**_Easy_**|[collections_counter](https://www.hackerrank.com/challenges/collections-counter/problem) | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/collections_counter/collections_counter.py)|
+|**_Easy_**|[itertools_permutations](https://www.hackerrank.com/challenges/itertools-permutations/problem)|[Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/itertools_permutations/itertools_permutations.py)|
 
 
 ## 🛠️ How to Use
