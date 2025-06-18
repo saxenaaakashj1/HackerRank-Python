@@ -23,7 +23,7 @@ for _ in range(m):
 # For each query word:
 for word in words:
     if word in word_indices:
-        # If the word exists in group A, print all its positions 
+        # If the word exists in group A, print all its positions
         # separated by spaces
         print(" ".join(map(str, word_indices[word])))
     else:
