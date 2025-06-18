@@ -41,6 +41,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | **_Easy_**       | [sets_distinct_height](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)     | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/sets_distinct_height/sets_distinct_height.py)     |
 | **_Easy_**       | [default_dict](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)                | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/default_dict/default_dict.py)                     |
 | **_Easy_**       | [calendar_module](https://www.hackerrank.com/challenges/calendar-module/problem)                  | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/calendar_module/calendar_modul.py)                |
+| **_Easy_**       | [exceptions](https://www.hackerrank.com/challenges/exceptions/problem)                            | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/exceptions/exceptions.py)                         |
 
 ## 🛠️ How to Use
 
