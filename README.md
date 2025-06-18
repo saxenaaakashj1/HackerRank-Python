@@ -44,6 +44,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | **_Easy_**       | [exceptions](https://www.hackerrank.com/challenges/exceptions/problem)                            | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/exceptions/exceptions.py)                         |
 | **_Easy_**       | [named_tuples](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem)           | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/named_tuples/named_tuple.py)                      |
 | **_Easy_**       | [ordered_dict](hackerrank.com/challenges/py-collections-ordereddict/problem)                      | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/ordered_dict/ordered_dict.py)                     |
+| **_Easy_**       | [symmetric_difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)        | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/symmetric_difference/symmetric_difference.py)     |
 
 ## 🛠️ How to Use
 
