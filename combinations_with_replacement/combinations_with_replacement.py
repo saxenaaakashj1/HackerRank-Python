@@ -10,7 +10,7 @@ n, r = input().split()
 possible_combinations = list(
     combinations_with_replacement(
         sorted(n.upper()),  # Sort to guarantee lexicographic order
-        int(r)              # Convert r to integer for combination length
+        int(r),  # Convert r to integer for combination length
     )
 )
 
