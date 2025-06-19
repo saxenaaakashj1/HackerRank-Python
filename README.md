@@ -46,6 +46,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | **_Easy_**       | [ordered_dict](hackerrank.com/challenges/py-collections-ordereddict/problem)                      | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/ordered_dict/ordered_dict.py)                     |
 | **_Easy_**       | [symmetric_difference](https://www.hackerrank.com/challenges/symmetric-difference/problem)        | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/symmetric_difference/symmetric_difference.py)     |
 | **_Easy_**       | [set_add](https://www.hackerrank.com/challenges/py-set-add/problem)                               | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/set_add/set_add.py)                               |
+| **_Easy_**       | [itertools_combinations] (https://www.hackerrank.com/challenges/itertools-combinations/problem)   | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/itertools_combinations/itertools_combinations.py) |
 
 ## 🛠️ How to Use
 
