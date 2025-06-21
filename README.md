@@ -51,6 +51,8 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | **_Easy_**       | [set_remove_elements](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)                         | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/set_remove_elements/set_remove_elements.py)                     |
 | **_Easy_**       | [set_union](https://www.hackerrank.com/challenges/py-set-union/problem)                                                | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/set_union/set_union.py)                                         |
 | **_Easy_**       | [set_intersection](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)                        | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/set_intersection/set_intersection.py)                           |
+| **_Easy_**       | [set_difference](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)                            | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/set_difference/set_difference.py)                               |
+| **_Easy_**       | [set_symmetric_difference](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)        | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/set_symmetric_difference/set_symmetric_difference.py)           |
 
 ## 🛠️ How to Use
 
