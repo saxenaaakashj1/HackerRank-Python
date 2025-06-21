@@ -50,6 +50,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | **_Easy_**       | [combinations_with_replacement](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem) | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/combinations_with_replacement/combinations_with_replacement.py) |
 | **_Easy_**       | [set_remove_elements](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)                         | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/set_remove_elements/set_remove_elements.py)                     |
 | **_Easy_**       | [set_union](https://www.hackerrank.com/challenges/py-set-union/problem)                                                | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/set_union/set_union.py)                                         |
+| **_Easy_**       | [set_intersection](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)                        | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/set_intersection/set_intersection.py)                           |
 
 ## 🛠️ How to Use
 
