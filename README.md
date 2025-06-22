@@ -57,6 +57,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | **_Easy_**       | [power_mod](https://www.hackerrank.com/challenges/python-power-mod-power/problem)                                      | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/power_mod/power_mod.py)                                         |
 | **_Easy_**       | [divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem)                                              | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/divmod/divmod.py)                                               |
 | **_Easy_**       | [collections_deque](https://www.hackerrank.com/challenges/py-collections-deque/problem)                                | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/collections_deque/collections_deque.py)                         |
+| **_Easy_**       | [set_mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem)                                        | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/set_mutations/set_mutations.py)                                 |
 
 ## 🛠️ How to Use
 
