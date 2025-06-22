@@ -54,6 +54,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | **_Easy_**       | [set_difference](https://www.hackerrank.com/challenges/py-set-difference-operation/problem)                            | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/set_difference/set_difference.py)                               |
 | **_Easy_**       | [set_symmetric_difference](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)        | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/set_symmetric_difference/set_symmetric_difference.py)           |
 | **_Easy_**       | [integers](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)                            | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/integers/integers.py)                                           |
+| **_Easy_**       | [power_mod](https://www.hackerrank.com/challenges/python-power-mod-power/problem)                                      | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/power_mod/power_mod.py)                                         |
 
 ## 🛠️ How to Use
 
