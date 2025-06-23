@@ -60,6 +60,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | **_Easy_**       | [set_mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem)                                        | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/set_mutations/set_mutations.py)                                 |
 | **_Easy_**       | [the_captain_room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)                                 | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/the_captain_room/the_captain_room.py)                           |
 | **_Easy_**       | [is_subset](https://www.hackerrank.com/challenges/py-check-subset/problem)                                             | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/is_subset/is_subset.py)                                         |
+| **_Easy_**       | [strict_superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)                              | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/strict_superset/strict_superset.py)                             |
 
 ## 🛠️ How to Use
 
