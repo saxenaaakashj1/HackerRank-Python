@@ -19,7 +19,7 @@ for _ in range(n):
         # If either condition fails, A is not a strict superset
         strict_superset = False
 
-# Print the final result: True if A is a strict superset of all B sets, 
+# Print the final result: True if A is a strict superset of all B sets,
 # else False
 print(strict_superset)
 
