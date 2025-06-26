@@ -1,4 +1,4 @@
-# Prompt the user to enter a Python expression and remove 
+# Prompt the user to enter a Python expression and remove
 # leading/trailing whitespace
 expression = input().strip()
 
