@@ -62,6 +62,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | **_Easy_**       | [is_subset](https://www.hackerrank.com/challenges/py-check-subset/problem)                                             | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/is_subset/is_subset.py)                                         |
 | **_Easy_**       | [strict_superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)                              | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/strict_superset/strict_superset.py)                             |
 | **_Easy_**       | [input](https://www.hackerrank.com/challenges/input/problem)                                                           | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/input/input.py)                                                 |
+| **_Easy_**       | [eval](https://www.hackerrank.com/challenges/python-eval/problem)                                                      | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/eval/eval.py)                                                   |
 
 ## 🛠️ How to Use
 

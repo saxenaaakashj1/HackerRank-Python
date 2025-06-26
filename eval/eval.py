@@ -6,8 +6,10 @@ expression = input().strip()
 # If it doesn't, evaluate the expression and print the result
 # This avoids printing 'None' if the expression itself is a print() call
 if not expression.startswith("print"):
-    print(eval(expression))  # Evaluate the expression and print the result
+    # Evaluate the expression and print the result
+    print(eval(expression))
 
-# Always evaluate the expression, so that any print() calls in the input are executed
-# For example, if the user enters 'print(3 + 5)', this line ensures it gets printed
+# Always evaluate the expression, so that any print() calls in the input
+# are executed. For example, if the user enters 'print(3 + 5)', this
+# line ensures it gets printed
 eval(expression)
