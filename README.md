@@ -64,6 +64,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | **_Easy_**       | [input](https://www.hackerrank.com/challenges/input/problem)                                                           | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/input/input.py)                                                 |
 | **_Easy_**       | [eval](https://www.hackerrank.com/challenges/python-eval/problem)                                                      | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/eval/eval.py)                                                   |
 | **_Easy_**       | [any_all](https://www.hackerrank.com/challenges/any-or-all/problem)                                                    | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/any_all/any_all.py)                                             |
+| **_Easy_**       | [valid_float](https://www.hackerrank.com/challenges/introduction-to-regex/problem)                                     | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/valid_float/valid_float.py)                                     |
 
 ## 🛠️ How to Use
 
