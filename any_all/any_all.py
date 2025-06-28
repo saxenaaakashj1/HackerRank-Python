@@ -20,3 +20,20 @@ for number in numbers:
 
 # If no palindromic number is found
 print(False)
+
+
+"""Alternate"""
+
+# input()  # Read and ignore the number of elements (not needed for logic)
+
+# # Read a list of integers from input
+# numbers = list(map(int, input().split()))
+
+# # Check two conditions:
+# # 1. All numbers are positive using 'all()'
+# # 2. At least one number is a palindrome using 'any()' with string reversal
+# # If both conditions are True, print True; otherwise, print False
+# print(
+#     all(number > 0 for number in numbers) and
+#     any(str(number) == str(number)[::-1] for number in numbers)
+# )
