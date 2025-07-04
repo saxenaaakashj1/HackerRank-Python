@@ -66,6 +66,7 @@ The solutions are categorized into folders based on the levels (e.g., `Easy`, `M
 | **_Easy_**       | [any_all](https://www.hackerrank.com/challenges/any-or-all/problem)                                                    | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/any_all/any_all.py)                                             |
 | **_Easy_**       | [valid_float](https://www.hackerrank.com/challenges/introduction-to-regex/problem)                                     | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/valid_float/valid_float.py)                                     |
 | **_Easy_**       | [zipped](https://www.hackerrank.com/challenges/zipped/problem)                                                         | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/zipped/zipped.py)                                               |
+| **_Easy_**       | [map_and_lambda](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)                              | [Solution](https://github.com/saxenaaakashj1/HackerRank-Python/blob/master/map_and_lambda/map_and_lambda.py)                               |
 
 ## 🛠️ How to Use
 
